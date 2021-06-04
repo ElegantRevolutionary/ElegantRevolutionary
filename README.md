@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tomaszdudkowski.tomaszdudkowski)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszdudkowski)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tomasz-dudkowski-630736b2/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tomaszszd@gmail.com)
@@ -49,6 +50,10 @@ Here are some ideas to get you started:
 ### Database
 
 ![sqlserver](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaszdudkowski&theme=blue-green)
+
+![stats](	https://github-readme-stats.vercel.app/api?username=tomaszdudkowski&theme=blue-green)
 
 ## 🖥️ Workspace Setup
 
