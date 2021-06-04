@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszdudkowski)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tomasz-dudkowski-630736b2/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tomaszszd@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudkowski.photography/)
+
 🔭 I am Tomasz Dudkowski, a **ASP.NET Core Developer**
 
 🌱 I am really enthusiastic about learning new technology. In 2021, I learnt **REST API**, **MediatR**. In 2022 I learnt **TypeScript** and **Angular**. I also started with [**freelancing**].
