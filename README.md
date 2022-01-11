@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tomaszszd@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudkowski.photography/)
 
-🔭 I am Tomasz Dudkowski, a **ASP.NET Core Developer**
+🔭 I am Tomasz Dudkowski, a **Web Developer and ASP.NET Developer**
 
-🌱 I am really enthusiastic about learning new technology. In 2021, I learnt **REST API**, **MediatR**. In 2022 I learnt **TypeScript** and **Angular**. I also started with [**freelancing**].
+🌱 I am really enthusiastic about learning new technology. In 2021, I learnt **REST API**, **RWD**. In 2022 I learnt **SASS**, **TypeScript** and **React**.
 
 ## 🛠️ Skills
 ### Languages
@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<!--![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)-->
+![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -61,5 +62,5 @@ Here are some ideas to get you started:
 ![i7-4th-gen](https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![gtx-660](https://img.shields.io/badge/NVIDIA-GTX_660-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-2019](https://img.shields.io/badge/Visual_Studio-2019-007ACC?style=for-the-badge&logo=Visual-Studio&logoColor=white)
+![vs-2022](https://img.shields.io/badge/Visual_Studio-2022-007ACC?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 ![vs-code](https://img.shields.io/badge/Visual_Studio-Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
