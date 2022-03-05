@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tomaszszd@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudkowski.photography/)
 
-🔭 I am Tomasz Dudkowski, a **Web Developer and ASP.NET Developer**
+🔭 My name is Tomasz Dudkowski, a **Web Developer and ASP.NET Developer**
 
-🌱 I am really enthusiastic about learning new technology. In 2021, I learnt **REST API**, **RWD**. In 2022 I learnt **SASS**, **TypeScript** and **React**.
+🌱 I am really enthusiastic about learning new technology. In 2021, I learnt **REST API**, **RWD**. In 2022 I learn **SASS**, **TypeScript** and **React**.
 
 ## 🛠️ Skills
 ### Languages
