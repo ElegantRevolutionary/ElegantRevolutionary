@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🔭 My name is Tomasz Dudkowski, a **Web Developer and ASP.NET Developer**
 
-🌱 I am really enthusiastic about learning new technology. In 2021, I learnt **REST API**, **RWD**. In 2022 I learn **SASS**, **TypeScript** and **React**.
+🌱 I am passionate about new technology and innovation. In 2021, I learnt **REST API**, **RWD**. In 2022 I learn **SASS**, **TypeScript** and **React**.
 
 ## 🛠️ Skills
 ### Languages
