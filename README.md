@@ -1,5 +1,2 @@
-<h1 align="center">Hi 👋, I'm ElegantRevolutionary</h1>
-<h3 align="center">A passionate cybersecurity expert from Poland</h3>
+<h1 align="center">https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNuNHdkajJrdDl2eGo0OTZtdG5ybWZsMXJiOWdkNHg4YWZidTE3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4UzW8S83pWoKs/giphy.gif</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
